@@ -1,6 +1,12 @@
-# hello-world
-just to enjoy github
+b
 python developer
-learning json and Django
-5 months from start and curious about ahead of my way
-#last modified  23 of november
+python
+MongoDB
+Swift
+Html
+css
+Bootstrap
+CocoaPods
+Carthage
+Curious about ahead of my way
+#last modified  28 of november
